@@ -1,5 +1,5 @@
-body{
-    background-color: aqua;
-    font-weight: bold;
+h1 {
+    color: aqua;
     font-size: 56px;
+    font-style: italic;
 }
